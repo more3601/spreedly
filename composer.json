@@ -21,5 +21,11 @@
 			"Tuurbo\\Spreedly\\": "src/"
 		}
 	},
+	"repositories": [
+	    {
+	        "type": "vcs",
+	        "url": "https://github.com/more3601/spreedly"
+	    }
+	],
 	"minimum-stability": "dev"
 }
